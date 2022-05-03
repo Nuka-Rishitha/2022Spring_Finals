@@ -27,3 +27,5 @@ This hypothesis is an expansion of hypothesis 1 and dives further into proving w
 
 "Did the global demand slow down and fall in crude oil prices during the period 2014-16 affect India’s exports of mineral fuel?"
 
+The world saw a global demand slowdown and reduction in crude oil prices in the year 2014. Since India's highest exported product is Mineral Fuels, with the help of this hypothesis we wanted to dig deeper and understand how both these situations have had an effect on the exporting trends of India from the year 2014-2016.
+
