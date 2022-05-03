@@ -13,7 +13,7 @@ Final project for the course IS 597
 
 **Article used:**  https://www.jagranjosh.com/general-knowledge/list-of-top-10-export-and-import-source-of-india-1584105230-1
 
-"As per the article, India is in a trade deficit with China since the past 10 years but does this affect its GDP?”
+"As per the article, India is in a trade deficit with China since the past 10 years, but does this affect its GDP?”
 
 Trade deficit is the amount by which the cost of a country's imports exceeds the value of its exports. GDP is the total value of goods produced and services provided in a country during one year. This hypothesis explores if the 10 year long trade deficit with China impacts India's GDP. 
 
