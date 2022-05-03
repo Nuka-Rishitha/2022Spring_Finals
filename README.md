@@ -1,5 +1,5 @@
 # 2022Spring_Finals
-Final project by Rishitha and Aayusha
+Final project for the course IS 597
 
 
 **_The Influence of Imports and Exports of a Country on the GDP_**
