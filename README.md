@@ -13,12 +13,14 @@ Final project by Rishitha and Aayusha
 
 "As per the article, India is in a trade deficit with China since the past 10 years but does this affect its GDP?”
 
-This hypothesis explores if the 10 year long
+Trade deficit is the amount by which the cost of a country's imports exceeds the value of its exports. GDP is the total value of goods produced and services provided in a country during one year. This hypothesis explores if the 10 year long trade deficit with China impacts India's GDP. 
 
 
 **HYPOTHESIS 2:**
 
 "Do ALL countries with a trade deficit for past 10 years in a row have a direct effect on their GDP?"
+
+This hypothesis is an expansion of hypothesis 1 and dives further into proving whether trade deficit in ALL countries impacts it's GDP.
 
 
 **HYPOTHESIS 3:**
