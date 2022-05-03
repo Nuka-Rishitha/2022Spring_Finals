@@ -1,2 +1,2 @@
 # 2022Spring_Finals
-Final projects
+Final project by Rishitha and Aayusha
