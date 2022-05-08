@@ -13,22 +13,24 @@ Final project for the course IS 597
 
 **Article used:**  https://www.jagranjosh.com/general-knowledge/list-of-top-10-export-and-import-source-of-india-1584105230-1
   
-"As per the article, India is in a trade deficit with China since the past 10 years.”
-
-
-<img src="https://thumbs.dreamstime.com/z/china-yuan-renminbi-indian-rupee-currency-banknotes-asia-money-india-179218360.jpg" height = "400" width="600"/> 
+"As per the article, India is in a trade deficit with China since the past 10 years hence, this could affect its GDP.”
 
 Trade deficit is the amount by which the cost of a country's imports exceeds the value of its exports. GDP is the total value of goods produced and services provided in a country during one year. This hypothesis explores if the 10 year long trade deficit with China impacts India's GDP. 
 
-Conclusion: 
+<img src="https://thumbs.dreamstime.com/z/china-yuan-renminbi-indian-rupee-currency-banknotes-asia-money-india-179218360.jpg" height = "400" width="600"/> 
+
+Conclusion: Below are 2 images, a bar chart representing India's Imports and Exports and a line graph illustrating India's GDP over a certain period. As seen in the bar chart created, we have proven with data analysis the statement that India is in a trade deficit with China since a long period of time. But the line graph is proof that this trade deficit hasn't affected the Indian GDP. There could be many factors that could affect its GDP. Therefore, we reject this hypothesis.
 
 <div class="container"> 
 <img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp1.1.PNG" height = "500" width="700"/>
 <img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp1.2.PNG" height = "500" width="700"/>
 </div>
 
-We went a step further...
+We were curious to know what factors could have an effect on the GDP. While researching we came across many factors such as mortality, rate of inflation, poverty etc. One factor that we found worth discussing was the "Population Density", hence, we went a step further to prove whether Population Density infact, does affect the GDP. 
 
+Conclusion: As shown in the graph below it is clear that as there was an increase in the population, there was an increase in the GDP as well. Hence, we have proven that Population Density could also be a factor that could influence GDP.
+
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp1.2.PNG" height = "500" width="700"/>
 <img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp1.3.PNG" height = "400" width="900"/>
 
 
