@@ -62,10 +62,31 @@ Conclusion:
 
 The world saw a global demand slowdown and reduction in crude oil prices in the year 2014. Since India's highest exported product is Mineral Fuels, with the help of this hypothesis we wanted to dig deeper and understand how both these situations have had an effect on the exporting trends of India from the year 2014-2016.
 
-Conclusion:
-
 <img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp3.1.PNG" height = "400" width="800"/>
 
+Conclusion: After thorough data analysis, we found that the top 2 commodities of Indian exports were Mineral Fuels and Natural Gems. After thorough Data Analysis we could prove that the export of Mineral Fuels decreased since the year 2014, stabilized and finally picked up in the year 2018. Hence, we have proven with the help of visualizations that the global demand slowdown did have a negative effect on the exports. Therefore, we accept the hypothesis.
+
+
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp%203.2.PNG" height = "400" width="800"/>
+
+Some additional statistical considerations such as correlation with the help of heatmaps...
+
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/heat1.PNG" height = "400" width="800"/>
+
+The above heatmap shows a correlation between components like Export, Import, Total Trade, Trade Balance and GDP. It shows the extent to which each component is affected by the other. You can see that Import and Trade Balance are highly negatively correlated which means they are inversely proportional. Higher the Imports, lower is the Trade Balance.
+
+
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/heat2.PNG" height = "400" width="800"/>
+
+The above visual is a heatmap that demonstrates the progress of the net trade of the top 5 countries over the years 2015-2020. As shown above, it is clear that Euro area has had a high net trade over the overs whereas, China has seen significant fluctuations throughout. Other countries have seen a constant net trade.
+
+
+Some of the sources used:
+https://stackoverflow.com/questions/32998893/set-column-names-when-stacking-pandas-dataframe#:~:text=To%20avoid%20a%20phantom%20column%20name%20when%20calling,A%202%20B%202%20C%202%20dtype%3A%20int64
+
+https://plotly.com/python/px-arguments/
+
+https://pythonguides.com/matplotlib-plot-bar-chart/#:~:text=You%20can%20use%20the%20function%20bar%20%28%29%20of,matplotlib.pyplot.bar%20%28categories%2C%20heights%20%20%20width%2C%20bottom%2C%20align%2C...%5D%29%26%5D
 
 Contributions:
 Both of us worked together in formulating and testing the Hypothesis-1 and also played an equal part in preparing the Presentation. 
