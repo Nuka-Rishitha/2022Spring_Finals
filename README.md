@@ -19,6 +19,10 @@ Final project for the course IS 597
 
 Trade deficit is the amount by which the cost of a country's imports exceeds the value of its exports. GDP is the total value of goods produced and services provided in a country during one year. This hypothesis explores if the 10 year long trade deficit with China impacts India's GDP. 
 
+Conclusion: 
+
+<img src= "C:\Users\aayus\Downloads\hyp1.1.png" height = "400" width="600"/>
+
 
 **HYPOTHESIS 2:**
 
