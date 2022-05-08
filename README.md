@@ -21,7 +21,7 @@ Trade deficit is the amount by which the cost of a country's imports exceeds the
 
 Conclusion: 
 
-<img src= "C:\Users\aayus\Downloads\hyp1.1.png" height = "400" width="600"/>
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp1.1.PNG" height = "400" width="600"/>
 
 
 **HYPOTHESIS 2:**
