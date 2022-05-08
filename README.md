@@ -98,6 +98,6 @@ https://pythonguides.com/matplotlib-plot-bar-chart/#:~:text=You%20can%20use%20th
 
 Contributions:
 Both of us worked together in formulating and testing the Hypothesis-1 and also played an equal part in preparing the Presentation. 
-Rishitha worked on the idea and code for Hypothesis -2. Aayusha worked on the idea and code for Hypothesis-3.  
+Rishitha worked on the idea and code for Hypothesis -2 and also developed some of the data cleaning functions. Aayusha worked on the idea and code for Hypothesis-3, created heatmaps and also created the readme.md documentation.  
 
 
