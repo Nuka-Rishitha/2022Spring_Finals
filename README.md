@@ -57,7 +57,7 @@ The world saw a global demand slowdown and reduction in crude oil prices in the 
 
 Conclusion:
 
-<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp3.1.PNG" height = "300" width="400"/>
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp3.1.PNG" height = "500" width="700"/>
 
 
 Contributions:
