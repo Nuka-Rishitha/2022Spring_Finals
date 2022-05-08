@@ -36,6 +36,9 @@ We went a step further...
 
 "ALL countries with a trade deficit for past 10 years in a row have a direct effect on their GDP."
 
+<img src= "https://securecdn.pymnts.com/wp-content/uploads/2020/04/gdp-decline-q1.jpg" height = "500" width="800"/>
+
+
 This hypothesis is an expansion of hypothesis 1 and dives further into proving whether trade deficit in ALL countries impacts it's GDP.
 
 Conclusion:
