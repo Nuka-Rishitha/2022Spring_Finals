@@ -13,9 +13,7 @@ Final project for the course IS 597
 
 **Article used:**  https://www.jagranjosh.com/general-knowledge/list-of-top-10-export-and-import-source-of-india-1584105230-1
 
-<div style="width:60px ; height:60px">
-![](https://thumbs.dreamstime.com/z/china-yuan-renminbi-indian-rupee-currency-banknotes-asia-money-india-179218360.jpg "hyp1")
-</div>
+<img src="https://thumbs.dreamstime.com/z/china-yuan-renminbi-indian-rupee-currency-banknotes-asia-money-india-179218360.jpg" width="200"/>
   
 "As per the article, India is in a trade deficit with China since the past 10 years.”
 
