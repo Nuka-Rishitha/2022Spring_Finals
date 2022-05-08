@@ -70,10 +70,12 @@ The world saw a global demand slowdown and reduction in crude oil prices in the 
 
 <img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp3.1.PNG" height = "400" width="800"/>
 
-Conclusion: After thorough data analysis, we found that the top 2 commodities of Indian exports were Mineral Fuels and Natural Gems. After thorough Data Analysis we could prove that the export of Mineral Fuels decreased since the year 2014, stabilized and finally picked up in the year 2018. Hence, we have proven with the help of visualizations that the global demand slowdown did have a negative effect on the exports. Therefore, we accept the hypothesis.
-
+For exploring this hypothesis, we created a line chart visualization to display the export and import trends of India. We noticed that there was, indeed, a decrease in the exports from the year 2014. We wanted to see if this reduction was due to the reduction in the total exports of Mineral Fuels.
 
 <img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp%203.2.PNG" height = "400" width="800"/>
+
+Conclusion:  After thorough Data Analysis, we found that the top 2 commodities of Indian exports were Mineral Fuels and Natural Gems. We could prove that the export of Mineral Fuels decreased since the year 2014, stabilized and finally picked up in the year 2018. Hence, we have proven with the help of visualizations that the global demand slowdown did have a negative effect on the exports. Therefore, we accept the hypothesis.
+
 
 Some additional statistical considerations such as correlation with the help of heatmaps...
 
