@@ -38,14 +38,18 @@ Conclusion: As shown in the graph below it is clear that as there was an increas
 
 "ALL countries with a trade deficit for past 10 years in a row have a direct effect on their GDP."
 
+As proven with the help of multiple bar charts and line charts in hypothesis 1, we can say that even though India is in a trade deficit with China over several years, it’s GDP seems to not be affected by this factor and there could be other factors involved. This example was of a granular level specific to only one country, China. What we wanted to find further is if a long-term trade deficit affects most, if not all countries’ GDP negatively. 
+
 <img src= "https://securecdn.pymnts.com/wp-content/uploads/2020/04/gdp-decline-q1.jpg" height = "400" width="550"/>
 
+This hypothesis is an expansion of hypothesis 1 and dives further into proving whether trade deficit in ALL countries impacts it's GDP. 
 
-This hypothesis is an expansion of hypothesis 1 and dives further into proving whether trade deficit in ALL countries impacts it's GDP.
-
-Conclusion:
+Conclusion: We performed EDA on the dataset to clean it and found out that 2 countries, India and the United States have been in trade deficit for almost all the years. As shown below, in India’s case we can see that there was an increase in the net trade from 2019-2020 whereas for the United states, there were many fluctuations. 
 
 <img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp2.1.PNG" height = "500" width="800"/>
+
+It is clear by looking at the line graphs below,that even though there was an increase in India’s net trade from 2019-2020, there was a significant dip in it’s GDP. The United States also had fluctuations in the net trade but we see a steady increase in its GDP. Hence, we can say that there is no direct relation with a countries’ net trade and GDP. Hence, we reject the hypothesis.
+
 
 <div class="container"> 
 <img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp2.2.PNG" height = "300" width="400"/>
