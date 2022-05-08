@@ -27,6 +27,10 @@ Conclusion:
 <img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp1.2.PNG" height = "500" width="700"/>
 </div>
 
+We went a step further...
+
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp1.3.PNG.PNG" height = "500" width="700"/>
+
 
 **HYPOTHESIS 2:**
 
