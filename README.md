@@ -15,15 +15,17 @@ Final project for the course IS 597
   
 "As per the article, India is in a trade deficit with China since the past 10 years.”
 
-<div class="container"> 
+
 <img src="https://thumbs.dreamstime.com/z/china-yuan-renminbi-indian-rupee-currency-banknotes-asia-money-india-179218360.jpg" height = "300" width="600"/> 
-</div>
 
 Trade deficit is the amount by which the cost of a country's imports exceeds the value of its exports. GDP is the total value of goods produced and services provided in a country during one year. This hypothesis explores if the 10 year long trade deficit with China impacts India's GDP. 
 
 Conclusion: 
 
-<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp1.1.PNG" height = "400" width="600"/>
+<div class="container"> 
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp1.1.PNG" height = "300" width="600"/>
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp1.2.PNG" height = "300" width="600"/>
+</div>
 
 
 **HYPOTHESIS 2:**
