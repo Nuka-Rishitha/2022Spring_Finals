@@ -55,6 +55,11 @@ Conclusion:
 
 The world saw a global demand slowdown and reduction in crude oil prices in the year 2014. Since India's highest exported product is Mineral Fuels, with the help of this hypothesis we wanted to dig deeper and understand how both these situations have had an effect on the exporting trends of India from the year 2014-2016.
 
+Conclusion:
+
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp3.1.PNG" height = "300" width="400"/>
+
+
 Contributions:
 Both of us worked together in formulating and testing the Hypothesis-1 and also played an equal part in preparing the Presentation. 
 Rishitha worked on the idea and code for Hypothesis -2. Aayusha worked on the idea and code for Hypothesis-3.  
