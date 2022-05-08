@@ -56,13 +56,13 @@ Conclusion:
 
 "The global demand slow down and fall in crude oil prices during the period 2014-16 affected India’s exports of mineral fuel."
 
-<img src= "https://i.pinimg.com/originals/d7/c6/38/d7c638bec03ac2fea730f145aaad8bc8.jpg" height = "500" width="400"/>
+<img src= "https://i.pinimg.com/originals/d7/c6/38/d7c638bec03ac2fea730f145aaad8bc8.jpg" height = "400" width="500"/>
 
 The world saw a global demand slowdown and reduction in crude oil prices in the year 2014. Since India's highest exported product is Mineral Fuels, with the help of this hypothesis we wanted to dig deeper and understand how both these situations have had an effect on the exporting trends of India from the year 2014-2016.
 
 Conclusion:
 
-<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp3.1.PNG" height = "300" width="700"/>
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp3.1.PNG" height = "400" width="700"/>
 
 
 Contributions:
