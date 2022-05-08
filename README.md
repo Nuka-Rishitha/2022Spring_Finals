@@ -40,7 +40,7 @@ This hypothesis is an expansion of hypothesis 1 and dives further into proving w
 
 Conclusion:
 
-<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp2.1.PNG" height = "500" width="700"/>
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp2.1.PNG" height = "500" width="800"/>
 
 <div class="container"> 
 <img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp2.2.PNG" height = "300" width="400"/>
