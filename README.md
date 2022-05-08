@@ -29,7 +29,7 @@ Conclusion:
 
 We went a step further...
 
-<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp1.3.PNG.PNG" height = "500" width="700"/>
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp1.3.PNG" height = "500" width="700"/>
 
 
 **HYPOTHESIS 2:**
