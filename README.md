@@ -41,11 +41,9 @@ Conclusion: As shown in the graphs above, it is clear that as there was an incre
 
 "ALL countries with a trade deficit for past 10 years in a row have a direct effect on their GDP."
 
-As proven with the help of multiple bar charts and line charts in hypothesis 1, we can say that even though India is in a trade deficit with China over several years, it’s GDP seems to not be affected by this factor and there could be other factors involved. This example was of a granular level specific to only one country, China. What we wanted to find further is if a long-term trade deficit affects most, if not all countries’ GDP negatively. 
-
 <img src= "https://securecdn.pymnts.com/wp-content/uploads/2020/04/gdp-decline-q1.jpg" height = "400" width="550"/>
 
-This hypothesis is an expansion of hypothesis 1 and dives further into proving whether trade deficit in ALL countries impacts it's GDP. 
+As proven with the help of multiple bar charts and line charts in hypothesis 1, we can say that even though India is in a trade deficit with China over several years, it’s GDP seems to not be affected by this factor and there could be other factors involved. This example was of a granular level specific to only one country, China. What we wanted to find further is if a long-term trade deficit affects most, if not all countries’ GDP negatively. This hypothesis is an expansion of hypothesis 1 and dives further into proving whether trade deficit in ALL countries impacts it's GDP. 
 
 <img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp2.1.PNG" height = "500" width="800"/>
 
