@@ -30,11 +30,11 @@ Conclusion: Above are 2 images, a bar chart representing India's Imports and Exp
 We were curious to know what factors could have an effect on the GDP. While researching we came across many factors such as mortality, rate of inflation, poverty etc. One factor that we found worth discussing was the "Population Density", hence, we went a step further to prove whether Population Density infact, does affect the GDP. 
 
 <div class = "container">
-<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp1.2.PNG" height = "300" width="400"/>
 <img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp1.3.PNG" height = "300" width="400"/>
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp1.2.PNG" height = "300" width="400"/>
  </div>
 
-Conclusion: As shown in the graph above, it is clear that as there was an increase in the population, there was an increase in the GDP as well. Hence, we have proven that Population Density could also be a factor that could influence GDP.
+Conclusion: As shown in the graphs above, it is clear that as there was an increase in the population, there was an increase in the GDP as well. Hence, we have proven that Population Density could also be a factor that could influence GDP.
 
 
 **HYPOTHESIS 2:**
@@ -49,14 +49,14 @@ This hypothesis is an expansion of hypothesis 1 and dives further into proving w
 
 <img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp2.1.PNG" height = "500" width="800"/>
 
-Conclusion: We performed EDA on the dataset to clean it and found out that 2 countries, India and the United States have been in trade deficit for almost all the years. As shown alove, in India’s case we can see that there was an increase in the net trade from 2019-2020 whereas for the United states, there were many fluctuations. 
+Conclusion: We performed EDA on the dataset to clean it and found out that 2 countries, India and the United States have been in trade deficit for almost all the years. As shown above, in India’s case we can see that there was an increase in the net trade from 2019-2020 whereas for the United states, there were many fluctuations. 
 
 <div class="container"> 
 <img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp2.2.PNG" height = "300" width="400"/>
 <img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp2.3.PNG" height = "300" width="400"/>
 </div>
 
-It is clear by looking at the line graphs above,that even though there was an increase in India’s net trade from 2019-2020, there was a significant dip in it’s GDP. The United States also had fluctuations in the net trade but we see a steady increase in its GDP. Hence, we can say that there is no direct relation with a countries’ net trade and GDP. Hence, we reject the hypothesis.
+It is clear by looking at the line graphs above, that even though there was an increase in India’s net trade from 2019-2020, there was a significant dip in it’s GDP. The United States also had fluctuations in the net trade but we see a steady increase in its GDP. Hence, we can say that there is no direct relation with a countries’ net trade and GDP. Hence, we reject the hypothesis.
 
 
 
