@@ -27,6 +27,12 @@ file2= pd.read_csv("GDP.csv")
 
 
 def clean_data(file1,file3):
+    """
+
+    :param file1: GDP data containing the values of GDP for all countries
+    :param file3: Import, export, trade balance of all countries in the world
+    :return: cleaned and combined dataframe of the above two files
+    """
     global final_stacked
     for i in range(1960, 2010):
         file1 = file1.drop(columns = str(i))
@@ -56,6 +62,11 @@ cleaned_data
 
 
 def refine_more(filename):
+    """
+
+    :param filename: Combined dataframe of GDPs, Import, Export and trade balance of all countries in the world
+    :return: Cleaned file
+    """
     filename['Total Trade'] = filename['Total Trade'].str.replace(',','')
     filename['Export'] = filename['Export'].str.replace(',','')
     filename['Import'] = filename['Import'].str.replace(',','')
@@ -78,6 +89,12 @@ refined_data
 
 
 def filtering_countries(filename, country):
+    """
+
+    :param filename: File containing Import, export, trade balance of all countries in the world
+    :param country: Passing country name China
+    :return: dataframe containing trade details of China
+    """
     new = filename.loc[filename['Country'] == country]
     year = new.loc[:, ["Export", "Import", "Country", "Year"]]
     year = year.set_index(["Country", "Year"])
@@ -89,8 +106,14 @@ def filtering_countries(filename, country):
 
 
 def plotting(filename, country):
-     Graph = filename.plot(kind = 'bar', figsize =(30,10), title = country)
-     return Graph
+    """
+
+    :param filename: passing GraphAF function for the China file
+    :param country: passing China because trade deficit with China is being calculated
+    :return: A bar chart
+    """
+    Graph = filename.plot(kind = 'bar', figsize =(30,10), title = country)
+    return Graph
 
 
 # In[17]:
@@ -100,23 +123,17 @@ GraphAF = filtering_countries(refined_data, "CHINA P RP")
 plotting(GraphAF, "CHINA P RP")
 
 
-# In[18]:
-
-
-def india_data(filename1):
-    India = filename1.loc[filename1['Country Name'] == 'INDIA']
-    India['GDP'] = round(India['GDP']/1000000,2)
-    graph1 = px.line(India,
-    x='Year',
-    y=['GDP'],
-    title='GDP over past 10 years')
-    return graph1
-
 
 # In[21]:
 
 
 def arrange_TradeData(file):
+    """
+
+    :param file: CSV file containing Trade data of all the counties in the world
+    :return: cleaned dataframe
+    """
+
     file = file.drop(columns = ['Country Code','Indicator Name','Indicator Code'])
     file = file.set_index('Country Name')
     file = file.stack()
@@ -139,6 +156,11 @@ Trade_data1 = arrange_TradeData(Trade_data)
 
 
 def filter_def(filename):
+    """
+
+    :param filename: Passing the function calling Trade_data1 containing clean dataframe
+    :return: names of the countries with a trade deficit of more than 9 years in the last 10 years
+    """
     df = filename[(filename['Year'] > 2009 ) & (filename['Year'] < 2021) & (filename['Net_Trade'] < 0)]
     df2 = df.groupby('Year').apply(lambda x: x.sort_values(by = 'Net_Trade', ascending = True).head(5))
     df3 = df2.groupby('Country Name').count() > 9 
@@ -156,10 +178,17 @@ filter_def(Trade_data1)
 
 
 def plot_country(filename, country1, country2):
-        df = filename[(filename['Year'] > 2009 ) & (filename['Year'] < 2021) & (filename['Net_Trade'] < 0)]
-        df2 = df.loc[df['Country Name'].isin([country1, country2])]
-        sns.set()
-        sns.catplot(x='Year', hue='Country Name', col='Country Name', y='Net_Trade', data=df2, kind='bar', col_wrap=3)
+    """
+
+    :param filename: Passing the function calling Trade_data1 containing clean dataframe
+    :param country1: India
+    :param country2: United states
+    :return: A bar chart representing trade deficit pattern for India and United states for the last 10 years
+    """
+    df = filename[(filename['Year'] > 2009 ) & (filename['Year'] < 2021) & (filename['Net_Trade'] < 0)]
+    df2 = df.loc[df['Country Name'].isin([country1, country2])]
+    sns.set()
+    sns.catplot(x='Year', hue='Country Name', col='Country Name', y='Net_Trade', data=df2, kind='bar', col_wrap=3)
 
 
 # In[26]:
@@ -172,6 +201,11 @@ plot_country(Trade_data1, 'INDIA', 'UNITED STATES')
 
 
 def arrange_GDP_data(file):
+    """
+
+    :param file: file containing GDP values for all the countries in the world for more than past 30 years
+    :return: Dataframe containing GDP values of India and United States for last 10 years
+    """
     for i in range(1960, 2010):
         file = file.drop(columns = str(i))
     file = file.drop(columns = ['Indicator Name', 'Indicator Code', 'Country Code'])
@@ -198,6 +232,11 @@ Final_GDP
 
 
 def mineral_sorting(file):
+    """
+
+    :param file: file containing the commodity value of various commodities for the more than past 20 years
+    :return: Dataframe containing commodity value of Mineral fuels and Natural gems for past 10 years
+    """
     file = file.drop(columns = ['country', 'HSCode'])
     file = file.set_index(['year','Commodity'])
     df = file.groupby(["year","Commodity"])['value'].sum()
