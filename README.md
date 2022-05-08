@@ -38,6 +38,16 @@ We went a step further...
 
 This hypothesis is an expansion of hypothesis 1 and dives further into proving whether trade deficit in ALL countries impacts it's GDP.
 
+Conclusion:
+
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp2.1.PNG" height = "500" width="700"/>
+
+<div class="container"> 
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp2.2.PNG" height = "500" width="700"/>
+<img src= "https://github.com/Nuka-Rishitha/2022Spring_Finals/blob/main/Screenshots/hyp2.3.PNG" height = "500" width="700"/>
+</div>
+
+
 
 **HYPOTHESIS 3:**
 
